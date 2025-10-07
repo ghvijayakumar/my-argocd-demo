@@ -8,7 +8,7 @@ spec:
     namespace: default
     server: https://kubernetes.default.svc
   source:
-    repoURL: https://github.com/<your-username>/my-argocd-demo.git
+    repoURL: https://github.com/ghvijayakumar/my-argocd-demo.git
     path: manifests
     targetRevision: HEAD
   project: default
